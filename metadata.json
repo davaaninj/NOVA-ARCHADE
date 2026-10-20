@@ -1,0 +1,6 @@
+{
+  "name": "NovaArcade - 50+ Free Instant Games & Cyber Dashboard",
+  "description": "Futuristic gaming hub featuring 50+ free instant browser games, cooler interactive particle effects, customizable drag-and-drop dashboard widgets, and real-time player data visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
